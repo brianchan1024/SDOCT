@@ -1,0 +1,463 @@
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+Data initialized.
+Interpolation initialized.
+Interpolation destroyed.
+Data destroyed.
+Parameters destroyed.
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+CUDA Error: unspecified launch failureC:/Users/andre/Desktop/OCT Data Processing/Data Processor/output.cu131
+2
+3
+4
+2
+3
+4
+CUDA Error: unspecified launch failureC:/Users/andre/Desktop/OCT Data Processing/Data Processor/output.cu131
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+CUDA Error: unspecified launch failureC:/Users/andre/Desktop/OCT Data Processing/Data Processor/interpolation.cu213
+2
+3
+4
+CUDA Error: unspecified launch failureC:/Users/andre/Desktop/OCT Data Processing/Data Processor/interpolation.cu213
+2
+3
+4
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+CUDA Error: unspecified launch failureC:/Users/andre/Desktop/OCT Data Processing/Data Processor/interpolation.cu160
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+2
+3
+4
+-4
+-3
+-2
+-1
+2
+3
+4
